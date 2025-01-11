@@ -1,3 +1,7 @@
+// To run this code: Run in the terminal the following command
+// Compile the Program first: gcc -o cpu cpu.c -Wall
+// Then Run the executable with arguments: ./cpu Hello World
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "common.h"

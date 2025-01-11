@@ -1,3 +1,7 @@
+// To run this code: Run in the terminal the following command
+// Compile the Program first: gcc -o mem mem.c -Wall
+// Then Run the executable with arguments: ./mem <value>
+
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>

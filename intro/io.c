@@ -1,3 +1,7 @@
+// To run this code: Run in the terminal the following command
+// Compile the Program first: gcc -o io io.c -Wall
+// Then Run the executable with no arguments: ./io
+
 #include <stdio.h>
 #include <unistd.h>
 #include <assert.h>
