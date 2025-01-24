@@ -1,3 +1,7 @@
+// To run the program, run the following command in the project dir
+// Compile the Program first: gcc -o p3 p3.c -Wall
+// Then Run the executable: ./p3
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
